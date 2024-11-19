@@ -1,0 +1,25 @@
+CREATE SEQUENCE departamente_seq START WITH 1;
+
+CREATE SEQUENCE personal_seq START WITH 1;
+
+CREATE SEQUENCE inventar_produs_seq START WITH 1;
+
+CREATE SEQUENCE evenimente_seq START WITH 1;
+
+CREATE SEQUENCE clienti_seq START WITH 1;
+
+CREATE SEQUENCE rezervari__seq START WITH 1;
+
+CREATE SEQUENCE camere_seq START WITH 1;
+
+CREATE SEQUENCE recenzii_seq START WITH 1;
+
+CREATE SEQUENCE rezervari_servicii_seq START WITH 1;
+
+CREATE SEQUENCE servicii_seq START WITH 1;
+
+CREATE SEQUENCE facturi_seq START WITH 1;
+
+CREATE SEQUENCE plati_seq START WITH 1;
+
+
